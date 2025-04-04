@@ -1,7 +1,7 @@
 # AskMyGPT 💬
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Замените, если лицензия другая -->
-[![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev) <!-- Укажите вашу версию Flutter -->
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <!-- Замените, если лицензия другая -->
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-blue.svg" alt="Flutter Version"></a> <!-- Укажите вашу версию Flutter -->
 <!-- Добавьте другие бейджи, если нужно (например, статус сборки) -->
 
 **Кроссплатформенное чат-приложение для взаимодействия с AI-моделями.**
@@ -58,20 +58,17 @@
 
 ## 📸 Скриншоты (Примеры)
 
-<!-- ЗАМЕНИТЕ ПУТИ НА РЕАЛЬНЫЕ СКРИНШОТЫ ВАШЕГО ПРИЛОЖЕНИЯ -->
+**ВАЖНО:** Замените `PATH/TO/...` на реальные пути или URL ваших скриншотов!
+
 | Светлая тема | Темная тема |
 |---|---|
-| ![Chat Screen Light](PATH/TO/screenshot_light_chat.png) | ![Chat Screen Dark](PATH/TO/screenshot_dark_chat.png) |
+| <img src="https://i.ibb.co/gbDr1nmy/image-17.png" alt="Chat Screen Light"> | <img src="https://i.ibb.co/W42RBvQ8/image-16.png" alt="Chat Screen Dark"> |
 | *Экран чата (Светлая тема)* | *Экран чата (Темная тема)* |
-| ![Drawer Light](PATH/TO/screenshot_light_drawer.png) | ![Drawer Dark](PATH/TO/screenshot_dark_drawer.png) |
+| <img src="https://i.ibb.co/rKFFPJtF/image-4.png" alt="Drawer Light"> | <img src="https://i.ibb.co/s9Jp9Chc/image-3.png" alt="Drawer Dark"> |
 | *Боковое меню (Светлая тема)* | *Боковое меню (Темная тема)* |
-| ![Templates Screen](PATH/TO/screenshot_templates.png) | ![API Settings Screen](PATH/TO/screenshot_api_settings.png) |
+| <img src="https://i.ibb.co/YBc23P8X/image-14.png" alt="Templates Screen"> | <img src="https://i.ibb.co/6crxb4xS/image-5.png" alt="API Settings Screen"> |
 | *Экран управления шаблонами* | *Экран настроек API* |
-| ![Reasoning Expanded](PATH/TO/screenshot_reasoning.gif) | <!-- Добавьте еще скриншот или GIF --> |
-| *Отображение "Раздумий" DeepSeek (GIF)* | <!-- Подпись --> |
 
-
-<image src="https://picsum.photos/800/600" alt="Описание изображения">
 ---
 
 ## 🛠 Технологический стек
@@ -93,15 +90,16 @@
 
 ### Диаграммы
 
-<!-- Синтаксис Markdown ![Alt text](URL) используется для встраивания изображений. Эти ссылки должны отображаться как картинки на платформах вроде GitHub. -->
+**ВАЖНО:** Убедитесь, что эти URL-адреса все еще действительны!
+
 *   **Схема взаимодействия:**
-    ![Схема взаимодействия](https://ibb.co/8Lrn7d00)
+    <img src="https://i.ibb.co/67HcW1mm/FLUTTER-APP.png" alt="Схема взаимодействия">
 *   **Диаграмма пакетов:**
-    ![Диаграмма пакетов](https://ibb.co/wrjV84CZ)
+    <img src="https://i.ibb.co/gFhNQJwb/firefox-og-Vea-ROc-Ek.png" alt="Диаграмма пакетов">
 *   **Диаграмма компонентов:**
-    ![Диаграмма компонентов](https://i.ibb.co/931f1RRS/4.png)
+    <img src="https://i.ibb.co/931f1RRS/4.png" alt="Диаграмма компонентов">
 *   **Диаграмма развертывания:**
-    ![Диаграмма развертывания](https://ibb.co/gZvGrtrK)
+    <img src="https://i.ibb.co/WvDQHBHJ/firefox-Br-CJRW75-Uq.png" alt="Диаграмма развертывания">
 
 ---
 
