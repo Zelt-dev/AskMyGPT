@@ -1,0 +1,6 @@
+
+icons_launcher:
+  platforms:
+    android:
+      enable: true
+      image_path: "assets/icons/app_icon.png"
